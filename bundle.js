@@ -273,15 +273,15 @@ ReactDOM.render(React.createElement(ClickerWindow, { upgradeFullList: buttonUpgr
 
 },{"./upgrades.json":3,"react":160,"react-dom":4}],3:[function(require,module,exports){
 module.exports=[
-{id: 0, label: 'Slow Clicker', ratepersecond:1, minclicks:10},
-{id: 1, label: 'Okay Clicker', ratepersecond:5, minclicks:50},
-{id: 2, label: 'Ultra Clicker', ratepersecond:20, minclicks:500},
-{id: 3, label: 'Hyper Clicker', ratepersecond:100, minclicks:5000},
-{id: 4, label: 'Mega Clicker', ratepersecond:350, minclicks:20000},
-{id: 5, label: 'Giga Clicker', ratepersecond:1000, minclicks:100000},
-{id: 6, label: 'Extraordinary Clicker', ratepersecond:6000, minclicks:500000},
-{id: 7, label: 'Penultimate Clicker', ratepersecond:50000, minclicks:10000000},
-{id: 8, label: 'The One Clicker To Rule Them All', ratepersecond:1000000, minclicks:250000000},
+{id: 0, label: 'Slow Clicker', ratepersecond:100, minclicks:10},
+{id: 1, label: 'Okay Clicker', ratepersecond:500, minclicks:50},
+{id: 2, label: 'Ultra Clicker', ratepersecond:2000, minclicks:500},
+{id: 3, label: 'Hyper Clicker', ratepersecond:10000, minclicks:5000},
+{id: 4, label: 'Mega Clicker', ratepersecond:35000, minclicks:20000},
+{id: 5, label: 'Giga Clicker', ratepersecond:100000, minclicks:100000},
+{id: 6, label: 'Extraordinary Clicker', ratepersecond:6000000, minclicks:500000},
+{id: 7, label: 'Penultimate Clicker', ratepersecond:500000000, minclicks:10000000},
+{id: 8, label: 'The One Clicker To Rule Them All', ratepersecond:100000000000, minclicks:250000000},
 ]
 },{}],4:[function(require,module,exports){
 'use strict';
