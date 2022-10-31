@@ -281,7 +281,7 @@ module.exports=[
 {id: 5, label: 'Giga Clicker', ratepersecond:100000, minclicks:100000},
 {id: 6, label: 'Extraordinary Clicker', ratepersecond:6000000, minclicks:500000},
 {id: 7, label: 'Penultimate Clicker', ratepersecond:500000000, minclicks:10000000},
-{id: 8, label: 'The One Clicker To Rule Them All', ratepersecond:100000000000, minclicks:250000000},
+{id: 8, label: 'The One Clicker To Rule Them All', ratepersecond:100000000000000000000000000000000000000000, minclicks:250000000},
 ]
 },{}],4:[function(require,module,exports){
 'use strict';
